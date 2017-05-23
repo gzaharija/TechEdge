@@ -255,6 +255,72 @@ article .readmore:hover{
   border-bottom: 1px dotted #666;
 }
 
+#comments{
+  margin-top 20px;
+}
+
+.comment-left{
+  float: left;
+  width: 8%;
+}
+.comment-left img{
+  width: 100%;
+}
+.comment-right{
+  float: right;
+  width: 90%;
+}
+
+.contact-form{
+  margin-top: 20px;
+  padding: 5px 20px 10px 20px;
+  background: #333;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.contact-form input[type="text"], .contact-form input[type="email"]{
+  border: #ccc 1px solid;
+  border-radius: 5px;
+  height: 20px;
+  padding: 3px;
+  width: 97%;
+}
+.contact-form textarea{
+  border: #ccc 1px solid;
+  border-radius: 5px;
+  padding: 3px;
+  width: 97%;
+}
+
+.contact-form button{
+  color: #000;
+}
+
+.add-form input[type="text"]{
+  border: #ccc 1px solid;
+  border-radius: 5px;
+  height: 20px;
+  padding: 3px;
+  width: 97%;
+}
+
+.add-form select{
+  border: #ccc 1px solid;
+  border-radius: 5px;
+  height: 30px;
+  padding: 3px;
+  width: 98%;
+}
+
+.add-form textarea{
+  border: #ccc 1px solid;
+  border-radius: 5px;
+  padding: 3px;
+  width: 97%;
+}
+
+
 
 
 
